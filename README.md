@@ -1,4 +1,4 @@
-# 🎓 90-Day Java & Spring Boot Mastery Challenge Curriculum
+# 🎓 90-Day Java Mastery Challenge 
 
 **Haramaya University | College of Computing and Informatics | Department of Computer Science**  
 **Course Code**: CoSc3053 — Java Programming  
