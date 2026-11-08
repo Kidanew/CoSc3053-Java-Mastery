@@ -35,10 +35,10 @@ This comprehensive 90-day challenge curriculum bridges foundational Java syntax 
   - **Final Capstone Project & Demo (Day 90)**: 250 Points
   - **Streak Bonus**: 60 Points (1 pt / consecutive day commit)
 
-### Certificate Qualification Tiers
-1. **Certificate of Completion**: 500+ Points + Capstone Demo Presented
-2. **Certificate of Merit**: 700+ Points + 5 Milestones Passed
-3. **Certificate of Distinction**: 850+ Points + Zero Integrity Violations + Distinction Capstone
+### Qualification Tiers
+1. **Statement of Completion**: 500+ Points + Capstone Demo Presented
+2. **Statement of Merit**: 700+ Points + 5 Milestones Passed
+3. **Statement of Distinction**: 850+ Points + Zero Integrity Violations + Distinction Capstone
 
 ---
 
